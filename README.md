@@ -633,7 +633,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
+  <a href="https://wa.me/918421730469" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8421730469&size=square" alt="India-+91-842-173-0469" style="margin: 10px;">
   </a>
 </td>
