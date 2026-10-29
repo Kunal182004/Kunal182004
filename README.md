@@ -1,40 +1,51 @@
-<h1 align="center">👋 Hi, I'm Kunal
-<p align="center"><b>Aspiring DevOps Engineer</b> · Docker · Kubernetes · AWS · Terraform · Jenkins</p>
+<p align="center">
+  <img src="assets/header.svg" alt="Animated terminal header" width="100%" />
+</p>
 
-```text
-                       .                 .     Kunal@devops ─────────────────────────
-               :-=++###%##*=.                  OS ........ Linux (daily driver)
-           ..-#%@@%%%%%%%@@@%**=:              Role ...... Aspiring DevOps Engineer
-         =#%%%%%%%%%%%%%%%%%@@@@@%*-           Host ...... Kalyan, Maharashtra, India
-        =@%%%%%%%%%%%%%%%#%%%%%%%@@%:          Shell ..... bash / zsh
-       =#%%%%%%%%%@@%%%%%%%%%%%@@%%%%+
-     -#%%%%%%%%%#%%@@%%#%%%%%%@%%@%%@%.        ─ Tech Stack ─────────────────────────────
-    -@%%%@%%%%%%%##%%%%%%@@@@@@@%%@@%%-        Containers  Docker, Kubernetes
-    -%%%%%@%%#*##++##******##%@@@@@@%%-        Cloud ..... AWS
-     %%%%%#+=--:---===--:::::-++*%@%%@:        IaC ....... Terraform
-     *@%@%-.  ...........  ..:-==*%@@*         CI/CD ..... Jenkins, CI/CD pipelines
-     .==#*  .:-:.       .::=+*##**%#-          OS/Scripts  Linux, Shell scripting
-        +- :-=+***+-. .:-*#%#***###+
-        +:  ..-+**+:. :-*#+=**+#*+*+           ─ Currently ──────────────────────────────
-        =   .:-*++=:  .:=*+=****=-=*           Learning .. Advanced K8s, Ansible, Helm,
-       .-   ..::::.    .:=-::::::-=+                       ArgoCD, Prometheus & Grafana
-        -               ::=-.   .-=+           Building .. End-to-end CI/CD on AWS
-        -          .:  -+-::   ..-+=           Goal ...... Land a DevOps Engineer role
-        -:        .-+*=+#*=----:-=#-
-        :+.   :=**======**#%%#%*=*%.           ─ Contact ────────────────────────────────
-         ==-. :#+-::::---=++=*%*#@=            Email ..... haradkunal87@gmail.com
-          *+-:-*-    :------+%%%@+             LinkedIn .. www.linkedin.com/in/kunal-harad-2652961ba
-         -#*#%%%%*+-:-==--+%@@%%-              GitHub .... https://github.com/Kunal182004
-     .=#+***:+%@%##*====+#%@@%%%*-:.
-.-==+*%#+**##:.+#%%%%###%%@@%#%@@@@@%*==--     
-%@@@%%%#****#@+:.-=*#%%%%%#*+*#@%%%%@@@@@@     
-##%%@%%#*****#@%+::::--==++=++*%@@%%%%%%%%     
-##%%%@@%##****#@@%+-------=++-=#%@@@%%@@@@
+<p align="center">
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
+
+## 📜 `kubectl describe me`
+
+```yaml
+apiVersion: devops/v1
+kind: Engineer
+metadata:
+  name: your-name
+  labels:
+    role: devops-engineer
+    status: in-the-making
+    os: linux
+spec:
+  location: Kalyan, Maharashtra, India
+  containers:
+    - name: docker
+      image: knowledge:docker
+    - name: kubernetes
+      image: knowledge:k8s
+  cloud: aws
+  infrastructureAsCode: terraform
+  cicd: [jenkins, pipelines]
+  currentlyLearning: [ansible, helm, argocd, prometheus, grafana]
+  goal: "Land a DevOps Engineer role"
+status:
+  phase: Running
+  motivation: 100%
+  coffee: sufficient
 ```
+
+## 🚀 How I Ship Code
+
+<p align="center">
+  <img src="assets/pipeline.svg" alt="Animated CI/CD pipeline" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -42,28 +53,34 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-## 🎯 My DevOps Journey
+## 🗺️ DevOps Roadmap
 
-- 🐳 Containerizing applications with **Docker** and orchestrating them on **Kubernetes**
-- ☁️ Provisioning cloud infrastructure on **AWS** using **Terraform** (Infrastructure as Code)
-- 🔁 Automating build, test and deploy workflows with **Jenkins** and **CI/CD** pipelines
-- 🐧 Comfortable on the **Linux** command line and with shell scripting
-- 🚀 Working towards a full-time **DevOps Engineer** role
+| Status | Skill | What I do with it |
+|:--:|---|---|
+| ✅ | **Linux** | Command line, shell scripting, servers |
+| ✅ | **Docker** | Build and ship containerized apps |
+| ✅ | **Kubernetes** | Orchestrate and scale containers |
+| ✅ | **AWS** | Run workloads in the cloud |
+| ✅ | **Terraform** | Infrastructure as Code |
+| ✅ | **Jenkins + CI/CD** | Automate build, test and deploy |
+| 🔄 | **Ansible, Helm, ArgoCD** | Config management and GitOps |
+| 🔄 | **Prometheus + Grafana** | Monitoring and observability |
+| 🎯 | **Certifications** | AWS and Kubernetes (CKA) |
+| 🎯 | **DevOps Engineer role** | The big goal |
 
 ## 📈 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-<p align="center">⭐ Always learning, always automating.</p>
+<p align="center">
+  <img src="assets/footer.svg" alt="Footer wave" width="100%" />
+</p>
