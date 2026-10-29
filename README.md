@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kunal-harad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:haradkunal87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
@@ -14,13 +14,13 @@
 apiVersion: devops/v1
 kind: Engineer
 metadata:
-  name: your-name
+  name: Kunal
   labels:
     role: devops-engineer
     status: in-the-making
     os: linux
 spec:
-  location: Kalyan, Maharashtra, India
+  location: pune, Maharashtra, India
   containers:
     - name: docker
       image: knowledge:docker
@@ -74,7 +74,7 @@ status:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal182004&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
