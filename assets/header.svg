@@ -30,7 +30,7 @@
 <circle class="orb2" cx="120" cy="430" r="110" fill="#7B42BC" opacity="0.16"/>
 <circle class="orb" cx="940" cy="440" r="60" fill="#FF9900" opacity="0.14"/>
 <text x="500" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="22" fill="#8b949e" letter-spacing="6">HELLO WORLD, I AM</text>
-<text x="500" y="158" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="62" font-weight="700" fill="url(#name)">YOUR NAME</text>
+<text x="500" y="158" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="62" font-weight="700" fill="url(#name)">Kunal Harad</text>
 <text x="500" y="192" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="20" fill="#c9d1d9">DevOps Engineer &#8212; in the making</text>
 <g>
 <rect x="70" y="212" width="860" height="262" rx="12" fill="#0d1117" stroke="#30363d"/>
